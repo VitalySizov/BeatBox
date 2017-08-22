@@ -5,5 +5,5 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.sizov.vitaly.criminalintent.CrimeActivity">
+    tools:context="com.sizov.vitaly.beatbox.BeatBoxActivity">
 </FrameLayout>
